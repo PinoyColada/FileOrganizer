@@ -1,0 +1,11 @@
+C:\Users\Ryan Hatamosa\Desktop\Documents\Ryan_Hatamosa_DIR-CP\SampleData\dataframe01.csv
+C:\Users\Ryan Hatamosa\Desktop\Documents\Ryan_Hatamosa_DIR-CP\SampleData\folder1\dataframe11.csv
+C:\Users\Ryan Hatamosa\Desktop\Documents\Ryan_Hatamosa_DIR-CP\SampleData\folder1\folder11\image111.jpg
+C:\Users\Ryan Hatamosa\Desktop\Documents\Ryan_Hatamosa_DIR-CP\SampleData\folder1\folder11\image112.pdf
+C:\Users\Ryan Hatamosa\Desktop\Documents\Ryan_Hatamosa_DIR-CP\SampleData\folder1\folder11\folder111\image1111.jpg
+C:\Users\Ryan Hatamosa\Desktop\Documents\Ryan_Hatamosa_DIR-CP\SampleData\folder1\folder11\folder111\image1112.pdf
+C:\Users\Ryan Hatamosa\Desktop\Documents\Ryan_Hatamosa_DIR-CP\SampleData\folder1\folder11\folder111\textFile1111.txt
+C:\Users\Ryan Hatamosa\Desktop\Documents\Ryan_Hatamosa_DIR-CP\SampleData\folder1\folder11\folder111\folder1111\image11111.jpg
+C:\Users\Ryan Hatamosa\Desktop\Documents\Ryan_Hatamosa_DIR-CP\SampleData\folder1\folder11\folder111\folder1111\image11112.pdf
+C:\Users\Ryan Hatamosa\Desktop\Documents\Ryan_Hatamosa_DIR-CP\SampleData\folder1\folder11\folder111\folder1111\image11113.jpg
+C:\Users\Ryan Hatamosa\Desktop\Documents\Ryan_Hatamosa_DIR-CP\SampleData\folder1\folder11\folder111\folder1111\image11114.jpg
